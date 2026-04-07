@@ -1,0 +1,10 @@
+.git
+.idea
+*.iml
+*.iws
+*.ipr
+target/
+*.db
+.DS_Store
+.vscode/
+.claude/
